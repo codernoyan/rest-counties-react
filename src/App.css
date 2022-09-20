@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.country{
+  background-color: whitesmoke;
+  padding: 1rem;
+  margin: 1rem;
+  display: flex;
+  justify-content: space-around;
+}
